@@ -1,6 +1,6 @@
 # Speech-To-Text App 
 
-This uses googles SpeechRecognition library which is a free to use library
+The program "app1.py" from the repository uses googles SpeechRecognition library for speech transcription which is a free to use library
 
 1. Initially download the required packages to your machine (you can either install each one seperately)
 ```
