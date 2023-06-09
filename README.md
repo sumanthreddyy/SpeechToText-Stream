@@ -7,7 +7,7 @@ This uses googles SpeechRecognition library which is a free to use library
 pip install speechRecognition streamlit pyaudio
 ```
 
-2. Once the packages are installed , name your_script (whatever name you give for the program) file and run the porgram using the following command
+2. Once the packages are installed , save the program file and name it as per your choice . Run the porgram using the following command
 ```
 streamlit run your_script.py
 streamlit app1.py (For example)
