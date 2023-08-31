@@ -1,4 +1,4 @@
-# Speech-To-Text App 
+# Speech-To-Text App (Software Analysis)
 
 The program "app1.py" from the repository uses googles SpeechRecognition library for speech transcription which is a free to use library
 
